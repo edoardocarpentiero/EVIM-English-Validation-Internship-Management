@@ -1,0 +1,2 @@
+# EVIM-English-Validation-Internship-Management
+Il Sistema Internship Management, come estensione della piattaforma English Validation, fornisce uno strumento atto a digitalizzare il processo standard necessario per lo svolgimento del tirocinio formativo per il riconoscimento di attività lavorativa e della lingua inglese, in maniera semplice, efficiente e veloce, snellendo il processo burocratico attuale.
